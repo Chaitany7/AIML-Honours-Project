@@ -1,5 +1,7 @@
 # AIML-Honours-Project
 
+Project resource : https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/overview
+Project Available at : https://colab.research.google.com/drive/1gf5OqqgTt5SpWRhRWrfeA82E8qx0XGux?usp=sharing
 
 📈 Real-Time Market Data Forecasting – Honours Project
 
@@ -8,15 +10,15 @@ This project simulates and analyzes real-time financial market data using dummy 
 🧠 Project Objectives
 
 
-Create in-memory dummy datasets to simulate real-time data streams.
+> Create in-memory dummy datasets to simulate real-time data streams.
 
-Analyze feature distributions, types, and missing values.
+> Analyze feature distributions, types, and missing values.
 
-Impute missing data (numeric and categorical).
+> Impute missing data (numeric and categorical).
 
-Visualize distributions and correlations of features.
+> Visualize distributions and correlations of features.
 
-Prepare the groundwork for future model integration for market forecasting.
+> Prepare the groundwork for future model integration for market forecasting.
 
 
 
@@ -24,18 +26,18 @@ Prepare the groundwork for future model integration for market forecasting.
 
 This project is built using Python and Jupyter Notebook. Make sure to install the following dependencies:
 
-bash
-Copy
-Edit
-pip install numpy pandas matplotlib seaborn
+> bash
+> Copy
+> Edit
+> pip install numpy pandas matplotlib seaborn
 
 
 
 📂 Project Structure
 
-Copy
-Edit
-Real_time_market_data_forecasting_Honours_project.ipynb
+> Copy
+> Edit
+> Real_time_market_data_forecasting_Honours_project.ipynb
 
 
 
